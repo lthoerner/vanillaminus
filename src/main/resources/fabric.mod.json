@@ -3,9 +3,9 @@
 	"id": "vanillaminus",
 	"version": "${version}",
 	"name": "VanillaMinus",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Definitely not weird vanilla-like addons.",
 	"authors": [
-		"Me!"
+		"lthoerner"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

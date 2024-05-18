@@ -1,11 +1,12 @@
 {
-	"required": true,
-	"package": "com.lthoerner.vanillaminus.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
+  "required": true,
+  "package": "com.lthoerner.vanillaminus.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CreeperEntityMixin",
+    "CreeperIgniteGoalMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
 	}
 }
